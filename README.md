@@ -21,7 +21,6 @@ A simple template that lets you display events on a timeline, as well as organiz
 - Congratulations, you got your own timetable up and running on your new Github Pages link and you can shorten the url by going to tinyurl.com and making an alias.
 - If you like this, don't forget to star the repo.
 
-[License](https://codyhouse.co/license)
 
 ## Dependencies
 
